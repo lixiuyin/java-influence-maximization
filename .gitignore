@@ -1,0 +1,33 @@
+# Java build output
+build/
+out/
+target/
+*.class
+
+# Generated cache
+*.ser
+
+# IDE and operating-system files
+.idea/
+.vscode/
+.DS_Store
+
+# Course presentation/report source and generated artifacts
+*.pdf
+*.ppt
+*.pptx
+*.doc
+*.docx
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.nav
+*.out
+*.run.xml
+*.snm
+*.toc
+*.xdv
