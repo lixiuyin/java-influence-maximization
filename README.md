@@ -118,8 +118,8 @@ java -cp build/classes MethodComparison
 ├── src/                # 仅修改相对路径的原始 Java 代码
 ├── .github/workflows/  # 编译检查
 ├── Makefile
-├── README.md
-└── README.zh-CN.md
+├── README.md           # 中文（默认）
+└── README.en.md        # English
 ```
 
 课程汇报文件和报告 PDF 未包含在仓库中。
